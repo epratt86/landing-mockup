@@ -272,6 +272,10 @@ img {
     margin: auto;
   }
 
+  .section-b-inner {
+    padding: 0 10px;
+  }
+
   .section-b-inner h2 {
     font-size: 3.5rem;
   }
